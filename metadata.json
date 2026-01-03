@@ -1,0 +1,7 @@
+{
+  "name": "PureLabel AI - Local",
+  "description": "An independent, offline ingredient interpreter that translates complex food labels into human-level insights using a private local knowledge engine.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
